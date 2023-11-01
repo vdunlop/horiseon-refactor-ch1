@@ -67,7 +67,7 @@ p {
 }
 
 /* These classes are applied to the information section that resides under the main image
-    under the header. */
+    under the header. They define the placement of the small image on each box.*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -84,7 +84,7 @@ p {
     margin-left: 20px;
 }
 
-/* */
+/* These classes are used by the right side bar. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -198,6 +198,7 @@ p {
     font-size: 36px;
 }
 
+/* These classes are used by the information in the footer. */
 .footer {
     padding: 30px;
     clear: both;
@@ -205,6 +206,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer-h2 {
     font-size: 20px;
 }
