@@ -66,6 +66,8 @@ p {
     background-position: center;
 }
 
+/* These classes are applied to the information section that resides under the main image
+    under the header. */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -82,6 +84,7 @@ p {
     margin-left: 20px;
 }
 
+/* */
 .benefits {
     margin-right: 20px;
     padding: 20px;
