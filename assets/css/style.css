@@ -1,11 +1,22 @@
+/* Universal Selector: Apply to all elements on the page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Element Selectors for this page */
 body {
     background-color: #d9dcd6;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
 }
 
 /* Set up for the main header of the Horiseon website */
@@ -15,8 +26,9 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
-.header h1 {
+/*
+.header h1 {*/
+.h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -42,18 +54,9 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
 /* End of the header styles */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* Main image under the header. Change image here. */
 .hero {
     height: 800px;
     width: 100%;
