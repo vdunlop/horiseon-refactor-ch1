@@ -42,6 +42,7 @@ Screenshot of the Horiseon website.
 ![Screenshot of the Horiseon website.](./assets/images/horiseon-main-img.png)
 
 ## Installation/Execution
+https://vdunlop.github.io/horiseon-refactor-ch1/
 
 There are 3 navigation items in the website's header. When they are selected, the website should respond as follows:
 
