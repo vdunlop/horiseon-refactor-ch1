@@ -45,12 +45,12 @@ Screenshot of the Horiseon website.
 
 There are 3 navigation items in the website's header. When they are selected, the website should respond as follows:
 
-Search Engine Optimation - your view moves to the section titled Search Engine Optimization
-Online Reputation Management - your view moves to the section titled Online Reputation Management
-Social Media Marketing - your view moves to the section titled Social Media Marketing
+Search Engine Optimation - your view will move to the section titled Search Engine Optimization
+Online Reputation Management - your view will move to the section titled Online Reputation Management
+Social Media Marketing - your view will move to the section titled Social Media Marketing
 
 ## Usage
-
+When you open the Horiseon window, you will be able to navigate to the sections below the main image by selecting the navigation items at the top of the page.
 
 ## Credits
 
